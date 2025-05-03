@@ -2,8 +2,7 @@
 - 👀 I’m interested in Front-End Developing, Gaming, Editing and Crypto
 - 🌱 I’m currently a College Student
 - 💞️ I’m looking to collaborate on Front-End Developing
-- 📫 Reach me on Intagram - @itz.not_white
-- 😄 Pronouns: He/Him
+- 📫 Reach me on Intagram - @necros.x
 - ⚡ Fun fact: Car & Coffee Addict🙂✌️
 
 <!---
