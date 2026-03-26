@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @ItzNOTWHiTE (Ramika Perera)
+- 👋 Hi, I’m @necrosx (Ramika Perera)
 - 👀 I’m interested in Front-End Developing, Gaming, Editing and Crypto
 - 🌱 I’m currently a College Student
 - 💞️ I’m looking to collaborate on Front-End Developing
